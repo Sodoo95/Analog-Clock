@@ -1,2 +1,2 @@
-It is simple clock bound with system time. Nothing fancy. Made it for learning WinApi. No double buffer, Thats why its blinking.   
+It is simple clock bound with system time. Nothing fancy. Made it for learning WinApi.
 ![Description](AnalogClock.gif)
